@@ -9,3 +9,5 @@
 Notes:
 To get all post list :  http://127.0.0.1:8000/api/
 To get   post 2 : http://127.0.0.1:8000/api/2/
+
+To create a new   post  : http://127.0.0.1:8000/api/create/
