@@ -1,4 +1,6 @@
-# Blog-API-using-Django-REST
+# Blog-API-using-Django-REST framework
+CRUD operation
+( create read update delete )
 
 
 [blog api django rest.webm](https://github.com/Rokon-Uz-Zaman/Blog-API-using-Django-REST/assets/26451679/6273dbd6-c710-4cfa-93c0-0f0d7e3f67ab)
